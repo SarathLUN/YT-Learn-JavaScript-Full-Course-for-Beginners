@@ -7,7 +7,7 @@
 >git checkout -b {chapter_title}
 ```
 
-Ex: our first chapter title is ["Running JavaScript"](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=84s), so we create git branch as below:
+**Ex:** our first chapter title is ["Running JavaScript"](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=84s), so we create git branch as below:
 
 ```shell
 >git checkout -b 01-Running-JavaScript
@@ -23,7 +23,7 @@ Ex: our first chapter title is ["Running JavaScript"](https://www.youtube.com/wa
 >git checkout -b {chapter_title}
 ```
 
-Ex: we already completed chapter 1, and the title for chapter 2 is ["Comment Your Code"](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=263s), so our commands should be:
+**Ex:** we already completed chapter 1, and the title for chapter 2 is ["Comment Your Code"](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=263s), so our commands should be:
 
 ```shell
 >git add index.html
