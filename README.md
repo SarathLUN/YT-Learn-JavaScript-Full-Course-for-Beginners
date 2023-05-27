@@ -1,4 +1,4 @@
-# Learning and Practising Workflow
+# Learning and Practicing Workflow
 
 1. Lesson from YouTube: [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 2. Each chapter we create git branch
@@ -13,12 +13,12 @@
 >git checkout -b 01-Running-JavaScript
 ```
 
-3. Practise code follow the chapter content
-4. After complete each chapter, we need to commit code and create new branch for new chapter
+3. Then we can practise code by follow the chapter content of the video.
+4. After complete each chapter, we need to commit code and create new branch for new chapter.
 
 ```shell
 >git add {file_name_1} {file_name_2}
->git commit -m "completed chapter #1"
+>git commit -m "input your comments here"
 >git push origin {branch_name}
 >git checkout -b {chapter_title}
 ```
